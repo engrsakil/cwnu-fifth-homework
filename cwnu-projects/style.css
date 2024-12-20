@@ -1,0 +1,9 @@
+.heading1{
+    text-align: center;
+    background-color: rgb(230, 173, 173);
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
